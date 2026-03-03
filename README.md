@@ -41,7 +41,9 @@ Finally, we can mine INI using NexaPoW.<br>
 > And K1pool would say, "Question to exchanges: why are coins like this still listed?"<br>
 
 For more technical analyses, please visit bassrawa's blog.<br>
-[InitVerse (INI): Backdoors, Blacklists, Stolen PoW & Pool Lockout – Centralized Mining](https://blog.vipor.net/initverse-ini-backdoors-blacklists-stolen-pow-pool-lockout-centralized-mining/)
+[InitVerse (INI): Backdoors, Blacklists, Stolen PoW & Pool Lockout – Centralized Mining](https://blog.vipor.net/initverse-ini-backdoors-blacklists-stolen-pow-pool-lockout-centralized-mining/) <br>
+And Rabid also made some videos about this scam.<br>
+[Episode 1](https://www.youtube.com/watch?v=qPFqW1sG3jQ) &emsp;&emsp; [Episode 1.5](https://www.youtube.com/watch?v=fyTn1QVUCz8) &emsp;&emsp; [Episode 2](https://www.youtube.com/watch?v=Y4wZNe5yx_A)
 
 <br>
 
