@@ -40,6 +40,9 @@ Finally, we can mine INI using NexaPoW.<br>
 > As Rabid puts it, "Breaking: INI might be a major crypto ASIC scam."<br>
 > And K1pool would say, "Question to exchanges: why are coins like this still listed?"<br>
 
+For more technical analyses, please visit bassrawa's blog.<br>
+[InitVerse (INI): Backdoors, Blacklists, Stolen PoW & Pool Lockout – Centralized Mining](https://blog.vipor.net/initverse-ini-backdoors-blacklists-stolen-pow-pool-lockout-centralized-mining/)
+
 <br>
 
 ## Why N2I can break the limit
