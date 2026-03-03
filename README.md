@@ -65,6 +65,10 @@ Therefore, in our program, we connect an inibox to it, allowing help other Nexa 
 <br>
 
 ## Our assumption
+In short, InitVerse is a **scam designed to get people to buy their asic miners (iniboxes)**.<br>
+If they allowed GPUs to mine INI, the profits would drop, and they wouldn't be able to sell their inibox.<br>
+That's why they banned GPU mining.<br>
+<br>
 About **$53,000** worth of INI flows to miners daily.<br>
 Nearly all miners will sell them off. If no one buys, the market will **be crushed immediately**.<br>
 But who would buy this coin? Clearly only the official.<br>
