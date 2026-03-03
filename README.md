@@ -20,7 +20,7 @@ Finally, we can mine INI using NexaPoW.<br>
 &emsp;&emsp;So, it is possible to build an adapter layer that allows us to mine INI using NexaPoW. We can use software like Rigel to mine INI, with each 1000 MH/s of NexaPoW hashrate yielding $25.2 daily.<br>
 <br>
 &emsp;&emsp;The privacy computing features InitVerse claims to offer on its website, like data processing for hospitals or labs, don't actually exist.<br>
-&emsp;&emsp;BigEvil reviewed their code on GitHub, and found that there is nothing indicates with these features. He said the current version of InitVerse is a fork of Binance Smart Chain, which itself is a fork of Ethereum. There does not seem to be anything meaningfully new, so their website and marketing come across as very misleading.
+&emsp;&emsp;BigEvil reviewed their code on GitHub, and found that there is nothing indicates with these features.
 
 <br>
 
