@@ -12,6 +12,10 @@ Finally, we can mine INI using NexaPoW.<br>
 <br>
 <img width="3288" height="1694" alt="MiningINIwithNexaPoW" src="https://github.com/user-attachments/assets/37237b50-0bea-4da3-8594-dd3665b8fbba" />
 
+&emsp;**Warning: inibox will send its serial number to YatesPool to be authorized.** So N2I must do the same.<br>
+&emsp;YatesPool can very easily track this and brick your inibox, or stop payments to GPU miners' wallets.<br>
+&emsp;<ins>N2I is not responsible if you get your inibox banned.</ins>
+
 <br>
 
 ## The truth of InitVerse
@@ -51,7 +55,7 @@ And Rabid also made some videos about this scam.<br>
 When connecting an inibox to YatesPool, it sends a Ping that only inibox can decode.<br>
 If the miner fails to respond with the correct Pong, it will be disconnected from the pool.<br>
 This prevents others from using GPU mining.<br>
-Therefore, in our program, we connect an inibox to it, allowing help other Nexa miners impersonate an inibox to mine
+Therefore, in our program, we connect an inibox to it, allowing help other Nexa miners impersonate an inibox to mine.
 
 <br>
 
