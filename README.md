@@ -36,7 +36,7 @@ Finally, we can mine INI using NexaPoW.<br>
 &emsp;&emsp;They can freeze anyone's wallet by not adding transactions from blacklisted addresses into the blockchain.<br>
 &emsp;&emsp;The GPU mining software they release operates at one-twentieth of normal speed to appear different from NexaPoW algo. Furthermore, no matter how high your GPU's hashrate is, their pool will only display a maximum of 10MH/s unless you purchase their inibox miner.<br>
 <br>
-&emsp;&emsp;They claim there was "no official pre mining", but they're mining at 500x speed, and that share is supposedly as high as 85% of all INI produced. (There is a smart contract which let them apply a mining difficulty reduction for specific addresses)<br>
+&emsp;&emsp;They claim there was "no official pre mining", but they're mining at 500x speed, and that share makes up 80% of all INI minted. Only 20% of the minted INI goes to miners. (There is a smart contract which let them apply a mining difficulty reduction for specific addresses)<br>
 <br>
 &emsp;&emsp;They can shut down the whole network. On 2026-02-04, every wallet couldn't load INI balances, miner can't connect to the pool, the official block explorer is down, and even exchange's INIChain popped up an error message...<br>
 
